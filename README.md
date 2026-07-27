@@ -1,6 +1,5 @@
 # About Me:
 Estudiante de Ingeniería en Informática en el IPN, interesado en el desarrollo de software, bases de datos y tecnologías web. Actualmente trabajo con Java, JavaScript, HTML, CSS, PHP, MySQL, Git y Linux, desarrollando proyectos que reflejan mi aprendizaje y crecimiento como programador.<br>
-## About Me
 
 ```txt
  _   _ _                 _    
